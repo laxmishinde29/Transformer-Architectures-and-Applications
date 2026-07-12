@@ -172,5 +172,7 @@ After exploring these implementations, you will understand:
 * The differences between Encoder-Only, Encoder-Decoder, and Decoder-Only models.
 * How attention mechanisms enable efficient sequence processing.
 * How Transformers are applied to classification, translation, and text generation tasks.
+  
+---
 
 # Author : Laxmi Shinde 
